@@ -1,0 +1,401 @@
+answer_id;question_id;answer_text;is_correct
+1;1;"Proceed with caution; the sign is only advisory.";0
+2;1;Slow down and proceed if the way is clear.;0
+3;1;Stop completely and come to a full stop.;1
+4;1;Yield to traffic but do not stop completely.;0
+5;2;Stop immediately even if you are already in the intersection.;0
+6;2;"Continue through without slowing; yellow means keep moving.";0
+7;2;Speed up to clear the intersection before it changes.;0
+8;2;"Prepare to stop if it is safe to do so; the light is about to turn red.";1
+9;3;Yield to traffic but do not stop completely.;0
+10;3;Slow down and proceed if the way is clear.;0
+11;3;Yield - give the right-of-way to other vehicles and pedestrians.;1
+12;3;"Proceed with caution; the sign is only advisory.";0
+13;4;Warning - alerts drivers to potential hazards ahead.;1
+14;4;"Proceed with caution; the sign is only advisory.";0
+15;4;Yield to traffic but do not stop completely.;0
+16;4;Slow down and proceed if the way is clear.;0
+17;5;Regulatory information, such as speed limits or parking restrictions.;1
+18;5;"Proceed with caution; the sign is only advisory.";0
+19;5;Yield to traffic but do not stop completely.;0
+20;5;Slow down and proceed if the way is clear.;0
+21;6;"Proceed with caution; the sign is only advisory.";0
+22;6;Slow down and proceed if the way is clear.;0
+23;6;Yield to traffic but do not stop completely.;0
+24;6;Directional information, such as highway directions or distances to destinations.;1
+25;7;Speed up to clear the intersection before it changes.;0
+26;7;Treat it as a stop sign - come to a complete stop and proceed when safe.;1
+27;7;Stop immediately even if you are already in the intersection.;0
+28;7;"Continue through without slowing; red means keep moving.";0
+29;8;Speed up to clear the intersection before it changes.;0
+30;8;Stop immediately even if you are already in the intersection.;0
+31;8;Proceed with caution and be prepared to yield.;1
+32;8;"Continue through without slowing; yellow means keep moving.";0
+33;9;Slow down and proceed if the way is clear.;0
+34;9;Prohibition - the action shown is not allowed.;1
+35;9;Yield to traffic but do not stop completely.;0
+36;9;"Proceed with caution; the sign is only advisory.";0
+37;10;Slow down and proceed if the way is clear.;0
+38;10;Indicates an upcoming pedestrian crosswalk area;0
+39;10;Warns of a nearby playground where children may be present;0
+40;10;School zone or school crossing ahead.;1
+41;11;Slow down and proceed if the way is clear.;0
+42;11;Yield to traffic but do not stop completely.;0
+43;11;Motorist services, such as gas stations, food, or lodging.;1
+44;11;"Proceed with caution; the sign is only advisory.";0
+45;12;"Proceed with caution; the sign is only advisory.";0
+46;12;Yield to traffic but do not stop completely.;0
+47;12;Slow down and proceed if the way is clear.;0
+48;12;Reduce speed, follow posted signs, and be prepared for changing traffic patterns.;1
+49;13;Slow down and proceed if the way is clear.;0
+50;13;Yield to traffic but do not stop completely.;0
+51;13;"Proceed with caution; the sign is only advisory.";0
+52;13;Recreation or cultural interest areas, such as parks or historic sites.;1
+53;14;Slow down and proceed if the way is clear.;0
+54;14;"Proceed with caution; the sign is only advisory.";0
+55;14;Yield to traffic but do not stop completely.;0
+56;14;"Yellow circular sign with a black X and the letters RR.""""";1
+57;15;Yield to traffic but do not stop completely.;0
+58;15;Slow down and proceed if the way is clear.;0
+59;15;A white rectangular sign with a red circle and diagonal line through a U-turn arrow.;1
+60;15;"Proceed with caution; the sign is only advisory.";0
+61;16;Assume other vehicles must yield to you.;0
+62;16;Take the right-of-way if you get there first regardless of signs.;0
+63;16;"The vehicle that arrives first; if two vehicles arrive simultaneously, the vehicle on the right has the right-of-way.";1
+64;16;Always wait for a green arrow even at uncontrolled intersections.;0
+65;17;Assume other vehicles must yield to you.;0
+66;17;Take the right-of-way if you get there first regardless of signs.;0
+67;17;Oncoming traffic and pedestrians crossing the street.;1
+68;17;Always wait for a green arrow even at uncontrolled intersections.;0
+69;18;"Traffic already on the highway; merging traffic must yield.";1
+70;18;Always wait for a green arrow even at uncontrolled intersections.;0
+71;18;Assume other vehicles must yield to you.;0
+72;18;Take the right-of-way if you get there first regardless of signs.;0
+73;19;Take the right-of-way if you get there first regardless of signs.;0
+74;19;The vehicle on the right when two vehicles arrive at the same time.;1
+75;19;Always wait for a green arrow even at uncontrolled intersections.;0
+76;19;Assume other vehicles must yield to you.;0
+77;20;At all crosswalks, whether marked or unmarked, and when turning across their path.;1
+78;20;Assume other vehicles must yield to you.;0
+79;20;Take the right-of-way if you get there first regardless of signs.;0
+80;20;Always wait for a green arrow even at uncontrolled intersections.;0
+81;21;Stop immediately even if you are already in the intersection.;0
+82;21;"Continue through without slowing; yellow means keep moving.";0
+83;21;Speed up to clear the intersection before it changes.;0
+84;21;"Emergency vehicles have the right-of-way; all other vehicles must pull over and stop.";1
+85;22;Always wait for a green arrow even at uncontrolled intersections.;0
+86;22;Take the right-of-way if you get there first regardless of signs.;0
+87;22;"Vehicles in the traffic lane; the backing vehicle must yield.";1
+88;22;Assume other vehicles must yield to you.;0
+89;23;Yield to traffic but do not stop completely.;0
+90;23;Slow down and proceed if the way is clear.;0
+91;23;"Cross traffic and pedestrians; the vehicle at the yield sign must wait.";1
+92;23;"Proceed with caution; the sign is only advisory.";0
+93;24;Assume other vehicles must yield to you.;0
+94;24;Pedestrians in the crosswalk and all other traffic with the green light.;1
+95;24;Always wait for a green arrow even at uncontrolled intersections.;0
+96;24;Take the right-of-way if you get there first regardless of signs.;0
+97;25;Take the right-of-way if you get there first regardless of signs.;0
+98;25;Assume other vehicles must yield to you.;0
+99;25;"The funeral procession has the right-of-way; other vehicles should not interrupt the procession.";1
+100;25;Always wait for a green arrow even at uncontrolled intersections.;0
+101;26;Assume other vehicles must yield to you.;0
+102;26;Take the right-of-way if you get there first regardless of signs.;0
+103;26;"Vehicles already in the circle; entering vehicles must yield.";1
+104;26;Always wait for a green arrow even at uncontrolled intersections.;0
+105;27;Always wait for a green arrow even at uncontrolled intersections.;0
+106;27;Take the right-of-way if you get there first regardless of signs.;0
+107;27;Assume other vehicles must yield to you.;0
+108;27;"Vehicles already in the lane you want to enter; the changing vehicle must yield.";1
+109;28;Assume other vehicles must yield to you.;0
+110;28;Always wait for a green arrow even at uncontrolled intersections.;0
+111;28;Take the right-of-way if you get there first regardless of signs.;0
+112;28;"Follow the crossing guard's directions; they override traffic signals.";1
+113;29;Always wait for a green arrow even at uncontrolled intersections.;0
+114;29;Take the right-of-way if you get there first regardless of signs.;0
+115;29;Generally, the vehicle that arrives first, but yield to larger vehicles when practical.;1
+116;29;Assume other vehicles must yield to you.;0
+117;30;Always wait for a green arrow even at uncontrolled intersections.;0
+118;30;Take the right-of-way if you get there first regardless of signs.;0
+119;30;The same right-of-way rules apply to bicycles as to vehicles.;1
+120;30;Assume other vehicles must yield to you.;0
+121;31;Drive at any speed you feel comfortable with.;0
+122;31;No person may drive at a speed greater than is reasonable and prudent considering traffic, roadway, and weather conditions.;1
+123;31;Follow the speed of surrounding traffic even if it's above the limit.;0
+124;31;Only follow speed limits when police are present.;0
+125;32;25 mph unless otherwise posted.;1
+126;32;Drive at any speed you feel comfortable with.;0
+127;32;Only follow speed limits when police are present.;0
+128;32;Follow the speed of surrounding traffic even if it's above the limit.;0
+129;33;Drive at any speed you feel comfortable with.;0
+130;33;65 mph unless otherwise posted.;1
+131;33;Follow the speed of surrounding traffic even if it's above the limit.;0
+132;33;Only follow speed limits when police are present.;0
+133;34;Drive at any speed you feel comfortable with.;0
+134;34;Only follow speed limits when police are present.;0
+135;34;During adverse weather conditions, heavy traffic, construction zones, or other hazardous conditions.;1
+136;34;Follow the speed of surrounding traffic even if it's above the limit.;0
+137;35;Drive at any speed you feel comfortable with.;0
+138;35;Only follow speed limits when police are present.;0
+139;35;Follow the speed of surrounding traffic even if it's above the limit.;0
+140;35;"Fines and possible license points; specific penalties vary by amount over the limit.";1
+141;36;Drive at any speed you feel comfortable with.;0
+142;36;Only follow speed limits when police are present.;0
+143;36;Follow the speed of surrounding traffic even if it's above the limit.;0
+144;36;Typically 20 mph when children are present or as posted.;1
+145;37;Do whatever seems safest at the moment.;0
+146;37;Maintain a safe following distance of at least 3 seconds under normal conditions.;1
+147;37;Follow other drivers' behavior rather than signs or rules.;0
+148;37;"There is no specific rule; use personal judgment.";0
+149;38;On hills, curves, intersections, crosswalks, within 100 feet of a bridge, or when a solid yellow line is on your side.;1
+150;38;Do whatever seems safest at the moment.;0
+151;38;"There is no specific rule; use personal judgment.";0
+152;38;Follow other drivers' behavior rather than signs or rules.;0
+153;39;"There is no specific rule; use personal judgment.";0
+154;39;Follow other drivers' behavior rather than signs or rules.;0
+155;39;Increase following distance to 4-6 seconds or more depending on conditions.;1
+156;39;Do whatever seems safest at the moment.;0
+157;40;Move over a lane or slow down when passing emergency vehicles, tow trucks, or maintenance vehicles with flashing lights.;1
+158;40;"There is no specific rule; use personal judgment.";0
+159;40;Do whatever seems safest at the moment.;0
+160;40;Follow other drivers' behavior rather than signs or rules.;0
+161;41;From 30 minutes after sunset to 30 minutes before sunrise, and during insufficient visibility conditions.;1
+162;41;"Continue through without slowing; yellow means keep moving.";0
+163;41;Speed up to clear the intersection before it changes.;0
+164;41;Stop immediately even if you are already in the intersection.;0
+165;42;Slow down and proceed if the way is clear.;0
+166;42;Left arm extended straight out from the window.;1
+167;42;Yield to traffic but do not stop completely.;0
+168;42;"Proceed with caution; the sign is only advisory.";0
+169;43;"Proceed with caution; the sign is only advisory.";0
+170;43;Left arm extended upward at the elbow.;1
+171;43;Yield to traffic but do not stop completely.;0
+172;43;Slow down and proceed if the way is clear.;0
+173;44;Left arm extended downward at the elbow.;1
+174;44;"Proceed with caution; the sign is only advisory.";0
+175;44;Slow down and proceed if the way is clear.;0
+176;44;Yield to traffic but do not stop completely.;0
+177;45;"Proceed with caution; the sign is only advisory.";0
+178;45;Yield to traffic but do not stop completely.;0
+179;45;Slow down and proceed if the way is clear.;0
+180;45;At least 100 feet before turning in urban areas and 200 feet before turning on highways.;1
+181;46;Follow other drivers' behavior rather than signs or rules.;0
+182;46;Do whatever seems safest at the moment.;0
+183;46;"There is no specific rule; use personal judgment.";0
+184;46;At least 15 feet.;1
+185;47;At least 30 feet.;1
+186;47;Yield to traffic but do not stop completely.;0
+187;47;"Proceed with caution; the sign is only advisory.";0
+188;47;Slow down and proceed if the way is clear.;0
+189;48;Do whatever seems safest at the moment.;0
+190;48;"There is no specific rule; use personal judgment.";0
+191;48;At least 20 feet.;1
+192;48;Follow other drivers' behavior rather than signs or rules.;0
+193;49;"There is no specific rule; use personal judgment.";0
+194;49;Do whatever seems safest at the moment.;0
+195;49;Follow other drivers' behavior rather than signs or rules.;0
+196;49;No, blocking a driveway is illegal.;1
+197;50;At least 20 feet.;1
+198;50;Follow other drivers' behavior rather than signs or rules.;0
+199;50;"There is no specific rule; use personal judgment.";0
+200;50;Do whatever seems safest at the moment.;0
+201;51;"There is no specific rule; use personal judgment.";0
+202;51;Do whatever seems safest at the moment.;0
+203;51;No, parking on sidewalks is prohibited.;1
+204;51;Follow other drivers' behavior rather than signs or rules.;0
+205;52;Assume other vehicles must yield to you.;0
+206;52;Always wait for a green arrow even at uncontrolled intersections.;0
+207;52;No, parking within an intersection is illegal.;1
+208;52;Take the right-of-way if you get there first regardless of signs.;0
+209;53;"There is no specific rule; use personal judgment.";0
+210;53;Follow other drivers' behavior rather than signs or rules.;0
+211;53;At least 50 feet.;1
+212;53;Do whatever seems safest at the moment.;0
+213;54;No, parking in designated bike lanes is prohibited.;1
+214;54;Do whatever seems safest at the moment.;0
+215;54;"There is no specific rule; use personal judgment.";0
+216;54;Follow other drivers' behavior rather than signs or rules.;0
+217;55;Do whatever seems safest at the moment.;0
+218;55;Follow other drivers' behavior rather than signs or rules.;0
+219;55;"There is no specific rule; use personal judgment.";0
+220;55;No parking or stopping at any time.;1
+221;56;"There is no specific rule; use personal judgment.";0
+222;56;Do whatever seems safest at the moment.;0
+223;56;Loading zone - commercial vehicles only for limited time.;1
+224;56;Follow other drivers' behavior rather than signs or rules.;0
+225;57;Do whatever seems safest at the moment.;0
+226;57;Follow other drivers' behavior rather than signs or rules.;0
+227;57;Disabled parking only with proper permit or license plate.;1
+228;57;"There is no specific rule; use personal judgment.";0
+229;58;"There is no specific rule; use personal judgment.";0
+230;58;Do whatever seems safest at the moment.;0
+231;58;Short-term parking, usually 15-30 minutes.;1
+232;58;Follow other drivers' behavior rather than signs or rules.;0
+233;59;Do whatever seems safest at the moment.;0
+234;59;Follow other drivers' behavior rather than signs or rules.;0
+235;59;Passenger loading and unloading only.;1
+236;59;"There is no specific rule; use personal judgment.";0
+237;60;"There is no specific rule; use personal judgment.";0
+238;60;No, you must park in the direction of traffic flow.;1
+239;60;Follow other drivers' behavior rather than signs or rules.;0
+240;60;Do whatever seems safest at the moment.;0
+241;61;Follow the speed of surrounding traffic even if it's above the limit.;0
+242;61;Drive at any speed you feel comfortable with.;0
+243;61;0.08% BAC (blood alcohol content).;1
+244;61;Only follow speed limits when police are present.;0
+245;62;Drive at any speed you feel comfortable with.;0
+246;62;Only follow speed limits when police are present.;0
+247;62;Follow the speed of surrounding traffic even if it's above the limit.;0
+248;62;0.00% BAC - zero tolerance for underage drinking and driving.;1
+249;63;Drive at any speed you feel comfortable with.;0
+250;63;0.04% BAC.;1
+251;63;Only follow speed limits when police are present.;0
+252;63;Follow the speed of surrounding traffic even if it's above the limit.;0
+253;64;Do whatever seems safest at the moment.;0
+254;64;By driving in Alaska, you automatically consent to chemical tests if suspected of DUI.;1
+255;64;Follow other drivers' behavior rather than signs or rules.;0
+256;64;"There is no specific rule; use personal judgment.";0
+257;65;Automatic license suspension, typically for 90 days for first refusal.;1
+258;65;"There is no specific rule; use personal judgment.";0
+259;65;Follow other drivers' behavior rather than signs or rules.;0
+260;65;Do whatever seems safest at the moment.;0
+261;66;Do whatever seems safest at the moment.;0
+262;66;Follow other drivers' behavior rather than signs or rules.;0
+263;66;Minimum 90 days, up to 1 year.;1
+264;66;"There is no specific rule; use personal judgment.";0
+265;67;Enhanced penalties including longer license suspension and possible ignition interlock device.;1
+266;67;Do whatever seems safest at the moment.;0
+267;67;Follow other drivers' behavior rather than signs or rules.;0
+268;67;"There is no specific rule; use personal judgment.";0
+269;68;"There is no specific rule; use personal judgment.";0
+270;68;Yes, if you are impaired by alcohol, drugs, or other substances.;1
+271;68;Follow other drivers' behavior rather than signs or rules.;0
+272;68;Do whatever seems safest at the moment.;0
+273;69;Follow other drivers' behavior rather than signs or rules.;0
+274;69;"There is no specific rule; use personal judgment.";0
+275;69;Enhanced penalties including additional fines and possible felony charges.;1
+276;69;Do whatever seems safest at the moment.;0
+277;70;Follow other drivers' behavior rather than signs or rules.;0
+278;70;Permanently, though they may not affect insurance rates after a certain period.;1
+279;70;"There is no specific rule; use personal judgment.";0
+280;70;Do whatever seems safest at the moment.;0
+281;71;"There is no specific rule; use personal judgment.";0
+282;71;A device that prevents a vehicle from starting if alcohol is detected on the driver's breath.;1
+283;71;Do whatever seems safest at the moment.;0
+284;71;Follow other drivers' behavior rather than signs or rules.;0
+285;72;Do whatever seems safest at the moment.;0
+286;72;Follow other drivers' behavior rather than signs or rules.;0
+287;72;After certain DUI convictions or as a condition of license reinstatement.;1
+288;72;"There is no specific rule; use personal judgment.";0
+289;73;Do whatever seems safest at the moment.;0
+290;73;Follow other drivers' behavior rather than signs or rules.;0
+291;73;Yes, if the medication impairs your ability to drive safely.;1
+292;73;"There is no specific rule; use personal judgment.";0
+293;74;Do whatever seems safest at the moment.;0
+294;74;Follow other drivers' behavior rather than signs or rules.;0
+295;74;It's illegal to drive with a BAC of 0.08% or higher regardless of whether you appear impaired.;1
+296;74;"There is no specific rule; use personal judgment.";0
+297;75;Do whatever seems safest at the moment.;0
+298;75;Yes, DUI laws apply to both public roads and private property accessible to the public.;1
+299;75;"There is no specific rule; use personal judgment.";0
+300;75;Follow other drivers' behavior rather than signs or rules.;0
+301;76;"There is no specific rule; use personal judgment.";0
+302;76;Do whatever seems safest at the moment.;0
+303;76;Follow other drivers' behavior rather than signs or rules.;0
+304;76;All drivers and passengers must wear seatbelts at all times while the vehicle is in motion.;1
+305;77;"Children under 8 must be in appropriate child restraints; specific front seat rules vary.";1
+306;77;Follow other drivers' behavior rather than signs or rules.;0
+307;77;"There is no specific rule; use personal judgment.";0
+308;77;Do whatever seems safest at the moment.;0
+309;78;Do whatever seems safest at the moment.;0
+310;78;Follow other drivers' behavior rather than signs or rules.;0
+311;78;Fines and possible license points.;1
+312;78;"There is no specific rule; use personal judgment.";0
+313;79;Follow other drivers' behavior rather than signs or rules.;0
+314;79;"There is no specific rule; use personal judgment.";0
+315;79;Do whatever seems safest at the moment.;0
+316;79;"Only with hands-free devices; handheld use is prohibited in many areas.";1
+317;80;Do whatever seems safest at the moment.;0
+318;80;"There is no specific rule; use personal judgment.";0
+319;80;Pull as far right as possible, turn on hazard lights, and exit on the side away from traffic.;1
+320;80;Follow other drivers' behavior rather than signs or rules.;0
+321;81;Maintain control, gradually slow down, and pull over safely without sudden braking.;1
+322;81;Follow other drivers' behavior rather than signs or rules.;0
+323;81;"There is no specific rule; use personal judgment.";0
+324;81;Do whatever seems safest at the moment.;0
+325;82;Do whatever seems safest at the moment.;0
+326;82;A method to maintain safe following distance by counting three seconds between vehicles.;1
+327;82;Follow other drivers' behavior rather than signs or rules.;0
+328;82;"There is no specific rule; use personal judgment.";0
+329;83;When your vehicle is stopped or moving significantly slower than traffic, or in emergencies.;1
+330;83;Stop immediately even if you are already in the intersection.;0
+331;83;"Continue through without slowing; yellow means keep moving.";0
+332;83;Speed up to clear the intersection before it changes.;0
+333;84;Do whatever seems safest at the moment.;0
+334;84;Follow other drivers' behavior rather than signs or rules.;0
+335;84;"There is no specific rule; use personal judgment.";0
+336;84;"Continue to the next exit; never back up or turn around on a highway.";1
+337;85;Do whatever seems safest at the moment.;0
+338;85;Use the acceleration lane to match traffic speed and merge when safe.;1
+339;85;Follow other drivers' behavior rather than signs or rules.;0
+340;85;"There is no specific rule; use personal judgment.";0
+341;86;Assume other vehicles must yield to you.;0
+342;86;Always wait for a green arrow even at uncontrolled intersections.;0
+343;86;Take the right-of-way if you get there first regardless of signs.;0
+344;86;Signal, turn sharply left, reverse while turning right, then proceed forward.;1
+345;87;"There is no specific rule; use personal judgment.";0
+346;87;Do whatever seems safest at the moment.;0
+347;87;No more than 12 inches from the curb.;1
+348;87;Follow other drivers' behavior rather than signs or rules.;0
+349;88;Stop at least 30 feet away until the lights stop flashing and children are clear.;1
+350;88;Stop immediately even if you are already in the intersection.;0
+351;88;"Continue through without slowing; yellow means keep moving.";0
+352;88;Speed up to clear the intersection before it changes.;0
+353;89;Only when the red lights are not flashing and the stop arm is retracted.;1
+354;89;Do whatever seems safest at the moment.;0
+355;89;"There is no specific rule; use personal judgment.";0
+356;89;Follow other drivers' behavior rather than signs or rules.;0
+357;90;Follow other drivers' behavior rather than signs or rules.;0
+358;90;Substantial fines, possible license suspension, and points on your license.;1
+359;90;Do whatever seems safest at the moment.;0
+360;90;"There is no specific rule; use personal judgment.";0
+361;91;Do whatever seems safest at the moment.;0
+362;91;Avoid eye contact, don't engage, and report dangerous behavior to authorities.;1
+363;91;"There is no specific rule; use personal judgment.";0
+364;91;Follow other drivers' behavior rather than signs or rules.;0
+365;92;Follow other drivers' behavior rather than signs or rules.;0
+366;92;"There is no specific rule; use personal judgment.";0
+367;92;Do whatever seems safest at the moment.;0
+368;92;Stay calm, avoid confrontation, and call 911 if threatened.;1
+369;93;"There is no specific rule; use personal judgment.";0
+370;93;When passing other vehicles or when traffic conditions require it.;1
+371;93;Follow other drivers' behavior rather than signs or rules.;0
+372;93;Do whatever seems safest at the moment.;0
+373;94;Do whatever seems safest at the moment.;0
+374;94;Maintain your speed, gradually slow down to encourage passing, and pull over if safe.;1
+375;94;Follow other drivers' behavior rather than signs or rules.;0
+376;94;"There is no specific rule; use personal judgment.";0
+377;95;Follow other drivers' behavior rather than signs or rules.;0
+378;95;Do whatever seems safest at the moment.;0
+379;95;"There is no specific rule; use personal judgment.";0
+380;95;Check mirrors, signal, check blind spots, and move over when safe.;1
+381;96;Stop immediately even if you are already in the intersection.;0
+382;96;"Continue through without slowing; yellow means keep moving.";0
+383;96;When approaching oncoming traffic within 500 feet or following within 200 feet.;1
+384;96;Speed up to clear the intersection before it changes.;0
+385;97;Do whatever seems safest at the moment.;0
+386;97;Follow other drivers' behavior rather than signs or rules.;0
+387;97;"There is no specific rule; use personal judgment.";0
+388;97;Yield the right-of-way and do not break into the procession.;1
+389;98;Follow other drivers' behavior rather than signs or rules.;0
+390;98;Do whatever seems safest at the moment.;0
+391;98;"Fines and possible community service; amounts vary by type and size of litter.";1
+392;98;"There is no specific rule; use personal judgment.";0
+393;99;Follow other drivers' behavior rather than signs or rules.;0
+394;99;Immediately if there are injuries, deaths, or significant property damage.;1
+395;99;Do whatever seems safest at the moment.;0
+396;99;"There is no specific rule; use personal judgment.";0
+397;100;Do whatever seems safest at the moment.;0
+398;100;"There is no specific rule; use personal judgment.";0
+399;100;Driver's license information, insurance information, vehicle registration, and contact information.;1
+400;100;Follow other drivers' behavior rather than signs or rules.;0
