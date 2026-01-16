@@ -1,7 +1,9 @@
 # Django Exam Engine & Web Interface
 
 **Project:** Core module for the "Driving School Exam" Group Project.
-**Role:** Data Storage and Handling, User Interface
+
+**Role:** Data Storage and Handling, User Interface.
+
 **Tech Stack:** Python, Django, PostgreSQL, SQLite, Pandas, HTML/CSS.
 
 ## 📂 Project Context
