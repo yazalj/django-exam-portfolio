@@ -1,0 +1,401 @@
+question_text;answer_text;is_correct
+What does a red octagonal sign mean?;"Proceed with caution; the sign is only advisory.";0
+What does a red octagonal sign mean?;Slow down and proceed if the way is clear.;0
+What does a red octagonal sign mean?;Stop completely and come to a full stop.;1
+What does a red octagonal sign mean?;Yield to traffic but do not stop completely.;0
+What should you do when approaching a yellow traffic light?;Stop immediately even if you are already in the intersection.;0
+What should you do when approaching a yellow traffic light?;"Continue through without slowing; yellow means keep moving.";0
+What should you do when approaching a yellow traffic light?;Speed up to clear the intersection before it changes.;0
+What should you do when approaching a yellow traffic light?;"Prepare to stop if it is safe to do so; the light is about to turn red.";1
+What does a triangular sign with a red border and white interior mean?;Yield to traffic but do not stop completely.;0
+What does a triangular sign with a red border and white interior mean?;Slow down and proceed if the way is clear.;0
+What does a triangular sign with a red border and white interior mean?;Yield - give the right-of-way to other vehicles and pedestrians.;1
+What does a triangular sign with a red border and white interior mean?;"Proceed with caution; the sign is only advisory.";0
+What does a diamond-shaped yellow sign indicate?;Warning - alerts drivers to potential hazards ahead.;1
+What does a diamond-shaped yellow sign indicate?;"Proceed with caution; the sign is only advisory.";0
+What does a diamond-shaped yellow sign indicate?;Yield to traffic but do not stop completely.;0
+What does a diamond-shaped yellow sign indicate?;Slow down and proceed if the way is clear.;0
+What does a rectangular white sign with black lettering typically indicate?;Regulatory information, such as speed limits or parking restrictions.;1
+What does a rectangular white sign with black lettering typically indicate?;"Proceed with caution; the sign is only advisory.";0
+What does a rectangular white sign with black lettering typically indicate?;Yield to traffic but do not stop completely.;0
+What does a rectangular white sign with black lettering typically indicate?;Slow down and proceed if the way is clear.;0
+What does a green rectangular sign indicate?;"Proceed with caution; the sign is only advisory.";0
+What does a green rectangular sign indicate?;Slow down and proceed if the way is clear.;0
+What does a green rectangular sign indicate?;Yield to traffic but do not stop completely.;0
+What does a green rectangular sign indicate?;Directional information, such as highway directions or distances to destinations.;1
+What should you do when you see a flashing red traffic light?;Speed up to clear the intersection before it changes.;0
+What should you do when you see a flashing red traffic light?;Treat it as a stop sign - come to a complete stop and proceed when safe.;1
+What should you do when you see a flashing red traffic light?;Stop immediately even if you are already in the intersection.;0
+What should you do when you see a flashing red traffic light?;"Continue through without slowing; red means keep moving.";0
+What does a flashing yellow traffic light mean?;Speed up to clear the intersection before it changes.;0
+What does a flashing yellow traffic light mean?;Stop immediately even if you are already in the intersection.;0
+What does a flashing yellow traffic light mean?;Proceed with caution and be prepared to yield.;1
+What does a flashing yellow traffic light mean?;"Continue through without slowing; yellow means keep moving.";0
+What does a sign with a red circle and diagonal line through a symbol mean?;Slow down and proceed if the way is clear.;0
+What does a sign with a red circle and diagonal line through a symbol mean?;Prohibition - the action shown is not allowed.;1
+What does a sign with a red circle and diagonal line through a symbol mean?;Yield to traffic but do not stop completely.;0
+What does a sign with a red circle and diagonal line through a symbol mean?;"Proceed with caution; the sign is only advisory.";0
+What does a pentagon-shaped sign indicate?;Slow down and proceed if the way is clear.;0
+What does a pentagon-shaped sign indicate?;Indicates an upcoming pedestrian crosswalk area;0
+What does a pentagon-shaped sign indicate?;Warns of a nearby playground where children may be present;0
+What does a pentagon-shaped sign indicate?;School zone or school crossing ahead.;1
+What does a blue rectangular sign typically indicate?;Slow down and proceed if the way is clear.;0
+What does a blue rectangular sign typically indicate?;Yield to traffic but do not stop completely.;0
+What does a blue rectangular sign typically indicate?;Motorist services, such as gas stations, food, or lodging.;1
+What does a blue rectangular sign typically indicate?;"Proceed with caution; the sign is only advisory.";0
+What should you do when approaching a construction zone with orange signs?;"Proceed with caution; the sign is only advisory.";0
+What should you do when approaching a construction zone with orange signs?;Yield to traffic but do not stop completely.;0
+What should you do when approaching a construction zone with orange signs?;Slow down and proceed if the way is clear.;0
+What should you do when approaching a construction zone with orange signs?;Reduce speed, follow posted signs, and be prepared for changing traffic patterns.;1
+What does a brown rectangular sign indicate?;Slow down and proceed if the way is clear.;0
+What does a brown rectangular sign indicate?;Yield to traffic but do not stop completely.;0
+What does a brown rectangular sign indicate?;"Proceed with caution; the sign is only advisory.";0
+What does a brown rectangular sign indicate?;Recreation or cultural interest areas, such as parks or historic sites.;1
+What does a railroad crossing sign look like?;Slow down and proceed if the way is clear.;0
+What does a railroad crossing sign look like?;"Proceed with caution; the sign is only advisory.";0
+What does a railroad crossing sign look like?;Yield to traffic but do not stop completely.;0
+What does a railroad crossing sign look like?;"Yellow circular sign with a black X and the letters RR.""""";1
+"What does a No U-Turn"" sign look like?""";Yield to traffic but do not stop completely.;0
+"What does a No U-Turn"" sign look like?""";Slow down and proceed if the way is clear.;0
+"What does a No U-Turn"" sign look like?""";A white rectangular sign with a red circle and diagonal line through a U-turn arrow.;1
+"What does a No U-Turn"" sign look like?""";"Proceed with caution; the sign is only advisory.";0
+Who has the right-of-way at a four-way stop?;Assume other vehicles must yield to you.;0
+Who has the right-of-way at a four-way stop?;Take the right-of-way if you get there first regardless of signs.;0
+Who has the right-of-way at a four-way stop?;"The vehicle that arrives first; if two vehicles arrive simultaneously, the vehicle on the right has the right-of-way.";1
+Who has the right-of-way at a four-way stop?;Always wait for a green arrow even at uncontrolled intersections.;0
+When making a left turn, who must you yield to?;Assume other vehicles must yield to you.;0
+When making a left turn, who must you yield to?;Take the right-of-way if you get there first regardless of signs.;0
+When making a left turn, who must you yield to?;Oncoming traffic and pedestrians crossing the street.;1
+When making a left turn, who must you yield to?;Always wait for a green arrow even at uncontrolled intersections.;0
+Who has the right-of-way when entering a highway from an on-ramp?;"Traffic already on the highway; merging traffic must yield.";1
+Who has the right-of-way when entering a highway from an on-ramp?;Always wait for a green arrow even at uncontrolled intersections.;0
+Who has the right-of-way when entering a highway from an on-ramp?;Assume other vehicles must yield to you.;0
+Who has the right-of-way when entering a highway from an on-ramp?;Take the right-of-way if you get there first regardless of signs.;0
+Who has the right-of-way at an uncontrolled intersection?;Take the right-of-way if you get there first regardless of signs.;0
+Who has the right-of-way at an uncontrolled intersection?;The vehicle on the right when two vehicles arrive at the same time.;1
+Who has the right-of-way at an uncontrolled intersection?;Always wait for a green arrow even at uncontrolled intersections.;0
+Who has the right-of-way at an uncontrolled intersection?;Assume other vehicles must yield to you.;0
+When must you yield to pedestrians?;At all crosswalks, whether marked or unmarked, and when turning across their path.;1
+When must you yield to pedestrians?;Assume other vehicles must yield to you.;0
+When must you yield to pedestrians?;Take the right-of-way if you get there first regardless of signs.;0
+When must you yield to pedestrians?;Always wait for a green arrow even at uncontrolled intersections.;0
+Who has the right-of-way when emergency vehicles approach with sirens and lights?;Stop immediately even if you are already in the intersection.;0
+Who has the right-of-way when emergency vehicles approach with sirens and lights?;"Continue through without slowing; yellow means keep moving.";0
+Who has the right-of-way when emergency vehicles approach with sirens and lights?;Speed up to clear the intersection before it changes.;0
+Who has the right-of-way when emergency vehicles approach with sirens and lights?;"Emergency vehicles have the right-of-way; all other vehicles must pull over and stop.";1
+When backing out of a parking space, who has the right-of-way?;Always wait for a green arrow even at uncontrolled intersections.;0
+When backing out of a parking space, who has the right-of-way?;Take the right-of-way if you get there first regardless of signs.;0
+When backing out of a parking space, who has the right-of-way?;"Vehicles in the traffic lane; the backing vehicle must yield.";1
+When backing out of a parking space, who has the right-of-way?;Assume other vehicles must yield to you.;0
+Who has the right-of-way at a yield sign?;Yield to traffic but do not stop completely.;0
+Who has the right-of-way at a yield sign?;Slow down and proceed if the way is clear.;0
+Who has the right-of-way at a yield sign?;"Cross traffic and pedestrians; the vehicle at the yield sign must wait.";1
+Who has the right-of-way at a yield sign?;"Proceed with caution; the sign is only advisory.";0
+When turning right on red, who must you yield to?;Assume other vehicles must yield to you.;0
+When turning right on red, who must you yield to?;Pedestrians in the crosswalk and all other traffic with the green light.;1
+When turning right on red, who must you yield to?;Always wait for a green arrow even at uncontrolled intersections.;0
+When turning right on red, who must you yield to?;Take the right-of-way if you get there first regardless of signs.;0
+Who has the right-of-way when funeral processions are moving?;Take the right-of-way if you get there first regardless of signs.;0
+Who has the right-of-way when funeral processions are moving?;Assume other vehicles must yield to you.;0
+Who has the right-of-way when funeral processions are moving?;"The funeral procession has the right-of-way; other vehicles should not interrupt the procession.";1
+Who has the right-of-way when funeral processions are moving?;Always wait for a green arrow even at uncontrolled intersections.;0
+At a traffic circle or roundabout, who has the right-of-way?;Assume other vehicles must yield to you.;0
+At a traffic circle or roundabout, who has the right-of-way?;Take the right-of-way if you get there first regardless of signs.;0
+At a traffic circle or roundabout, who has the right-of-way?;"Vehicles already in the circle; entering vehicles must yield.";1
+At a traffic circle or roundabout, who has the right-of-way?;Always wait for a green arrow even at uncontrolled intersections.;0
+When changing lanes, who has the right-of-way?;Always wait for a green arrow even at uncontrolled intersections.;0
+When changing lanes, who has the right-of-way?;Take the right-of-way if you get there first regardless of signs.;0
+When changing lanes, who has the right-of-way?;Assume other vehicles must yield to you.;0
+When changing lanes, who has the right-of-way?;"Vehicles already in the lane you want to enter; the changing vehicle must yield.";1
+Who has the right-of-way at a school crossing with a crossing guard?;Assume other vehicles must yield to you.;0
+Who has the right-of-way at a school crossing with a crossing guard?;Always wait for a green arrow even at uncontrolled intersections.;0
+Who has the right-of-way at a school crossing with a crossing guard?;Take the right-of-way if you get there first regardless of signs.;0
+Who has the right-of-way at a school crossing with a crossing guard?;"Follow the crossing guard's directions; they override traffic signals.";1
+When two vehicles approach a narrow bridge simultaneously, who has the right-of-way?;Always wait for a green arrow even at uncontrolled intersections.;0
+When two vehicles approach a narrow bridge simultaneously, who has the right-of-way?;Take the right-of-way if you get there first regardless of signs.;0
+When two vehicles approach a narrow bridge simultaneously, who has the right-of-way?;Generally, the vehicle that arrives first, but yield to larger vehicles when practical.;1
+When two vehicles approach a narrow bridge simultaneously, who has the right-of-way?;Assume other vehicles must yield to you.;0
+Who has the right-of-way between a vehicle and a bicycle at an intersection?;Always wait for a green arrow even at uncontrolled intersections.;0
+Who has the right-of-way between a vehicle and a bicycle at an intersection?;Take the right-of-way if you get there first regardless of signs.;0
+Who has the right-of-way between a vehicle and a bicycle at an intersection?;The same right-of-way rules apply to bicycles as to vehicles.;1
+Who has the right-of-way between a vehicle and a bicycle at an intersection?;Assume other vehicles must yield to you.;0
+What is the basic speed rule in Alaska?;Drive at any speed you feel comfortable with.;0
+What is the basic speed rule in Alaska?;No person may drive at a speed greater than is reasonable and prudent considering traffic, roadway, and weather conditions.;1
+What is the basic speed rule in Alaska?;Follow the speed of surrounding traffic even if it's above the limit.;0
+What is the basic speed rule in Alaska?;Only follow speed limits when police are present.;0
+What is the typical residential speed limit in Alaska?;25 mph unless otherwise posted.;1
+What is the typical residential speed limit in Alaska?;Drive at any speed you feel comfortable with.;0
+What is the typical residential speed limit in Alaska?;Only follow speed limits when police are present.;0
+What is the typical residential speed limit in Alaska?;Follow the speed of surrounding traffic even if it's above the limit.;0
+What is the typical speed limit on Alaska highways?;Drive at any speed you feel comfortable with.;0
+What is the typical speed limit on Alaska highways?;65 mph unless otherwise posted.;1
+What is the typical speed limit on Alaska highways?;Follow the speed of surrounding traffic even if it's above the limit.;0
+What is the typical speed limit on Alaska highways?;Only follow speed limits when police are present.;0
+When must you reduce your speed below the posted limit?;Drive at any speed you feel comfortable with.;0
+When must you reduce your speed below the posted limit?;Only follow speed limits when police are present.;0
+When must you reduce your speed below the posted limit?;During adverse weather conditions, heavy traffic, construction zones, or other hazardous conditions.;1
+When must you reduce your speed below the posted limit?;Follow the speed of surrounding traffic even if it's above the limit.;0
+What is the penalty for exceeding the speed limit by 10 mph or more?;Drive at any speed you feel comfortable with.;0
+What is the penalty for exceeding the speed limit by 10 mph or more?;Only follow speed limits when police are present.;0
+What is the penalty for exceeding the speed limit by 10 mph or more?;Follow the speed of surrounding traffic even if it's above the limit.;0
+What is the penalty for exceeding the speed limit by 10 mph or more?;"Fines and possible license points; specific penalties vary by amount over the limit.";1
+What is the speed limit in school zones?;Drive at any speed you feel comfortable with.;0
+What is the speed limit in school zones?;Only follow speed limits when police are present.;0
+What is the speed limit in school zones?;Follow the speed of surrounding traffic even if it's above the limit.;0
+What is the speed limit in school zones?;Typically 20 mph when children are present or as posted.;1
+How far must you stay behind another vehicle?;Do whatever seems safest at the moment.;0
+How far must you stay behind another vehicle?;Maintain a safe following distance of at least 3 seconds under normal conditions.;1
+How far must you stay behind another vehicle?;Follow other drivers' behavior rather than signs or rules.;0
+How far must you stay behind another vehicle?;"There is no specific rule; use personal judgment.";0
+When is it illegal to pass another vehicle?;On hills, curves, intersections, crosswalks, within 100 feet of a bridge, or when a solid yellow line is on your side.;1
+When is it illegal to pass another vehicle?;Do whatever seems safest at the moment.;0
+When is it illegal to pass another vehicle?;"There is no specific rule; use personal judgment.";0
+When is it illegal to pass another vehicle?;Follow other drivers' behavior rather than signs or rules.;0
+What is the minimum safe following distance in poor weather?;"There is no specific rule; use personal judgment.";0
+What is the minimum safe following distance in poor weather?;Follow other drivers' behavior rather than signs or rules.;0
+What is the minimum safe following distance in poor weather?;Increase following distance to 4-6 seconds or more depending on conditions.;1
+What is the minimum safe following distance in poor weather?;Do whatever seems safest at the moment.;0
+"What does Move Over"" law require?""";Move over a lane or slow down when passing emergency vehicles, tow trucks, or maintenance vehicles with flashing lights.;1
+"What does Move Over"" law require?""";"There is no specific rule; use personal judgment.";0
+"What does Move Over"" law require?""";Do whatever seems safest at the moment.;0
+"What does Move Over"" law require?""";Follow other drivers' behavior rather than signs or rules.;0
+When are headlights required in Alaska?;From 30 minutes after sunset to 30 minutes before sunrise, and during insufficient visibility conditions.;1
+When are headlights required in Alaska?;"Continue through without slowing; yellow means keep moving.";0
+When are headlights required in Alaska?;Speed up to clear the intersection before it changes.;0
+When are headlights required in Alaska?;Stop immediately even if you are already in the intersection.;0
+What is the hand signal for a left turn?;Slow down and proceed if the way is clear.;0
+What is the hand signal for a left turn?;Left arm extended straight out from the window.;1
+What is the hand signal for a left turn?;Yield to traffic but do not stop completely.;0
+What is the hand signal for a left turn?;"Proceed with caution; the sign is only advisory.";0
+What is the hand signal for a right turn?;"Proceed with caution; the sign is only advisory.";0
+What is the hand signal for a right turn?;Left arm extended upward at the elbow.;1
+What is the hand signal for a right turn?;Yield to traffic but do not stop completely.;0
+What is the hand signal for a right turn?;Slow down and proceed if the way is clear.;0
+What is the hand signal for stopping or slowing down?;Left arm extended downward at the elbow.;1
+What is the hand signal for stopping or slowing down?;"Proceed with caution; the sign is only advisory.";0
+What is the hand signal for stopping or slowing down?;Slow down and proceed if the way is clear.;0
+What is the hand signal for stopping or slowing down?;Yield to traffic but do not stop completely.;0
+When must you use your turn signal?;"Proceed with caution; the sign is only advisory.";0
+When must you use your turn signal?;Yield to traffic but do not stop completely.;0
+When must you use your turn signal?;Slow down and proceed if the way is clear.;0
+When must you use your turn signal?;At least 100 feet before turning in urban areas and 200 feet before turning on highways.;1
+How far from a fire hydrant must you park?;Follow other drivers' behavior rather than signs or rules.;0
+How far from a fire hydrant must you park?;Do whatever seems safest at the moment.;0
+How far from a fire hydrant must you park?;"There is no specific rule; use personal judgment.";0
+How far from a fire hydrant must you park?;At least 15 feet.;1
+How far from a stop sign must you park?;At least 30 feet.;1
+How far from a stop sign must you park?;Yield to traffic but do not stop completely.;0
+How far from a stop sign must you park?;"Proceed with caution; the sign is only advisory.";0
+How far from a stop sign must you park?;Slow down and proceed if the way is clear.;0
+How far from a crosswalk must you park?;Do whatever seems safest at the moment.;0
+How far from a crosswalk must you park?;"There is no specific rule; use personal judgment.";0
+How far from a crosswalk must you park?;At least 20 feet.;1
+How far from a crosswalk must you park?;Follow other drivers' behavior rather than signs or rules.;0
+Can you park in front of a driveway?;"There is no specific rule; use personal judgment.";0
+Can you park in front of a driveway?;Do whatever seems safest at the moment.;0
+Can you park in front of a driveway?;Follow other drivers' behavior rather than signs or rules.;0
+Can you park in front of a driveway?;No, blocking a driveway is illegal.;1
+How far from a fire station driveway must you park?;At least 20 feet.;1
+How far from a fire station driveway must you park?;Follow other drivers' behavior rather than signs or rules.;0
+How far from a fire station driveway must you park?;"There is no specific rule; use personal judgment.";0
+How far from a fire station driveway must you park?;Do whatever seems safest at the moment.;0
+Is it legal to park on a sidewalk?;"There is no specific rule; use personal judgment.";0
+Is it legal to park on a sidewalk?;Do whatever seems safest at the moment.;0
+Is it legal to park on a sidewalk?;No, parking on sidewalks is prohibited.;1
+Is it legal to park on a sidewalk?;Follow other drivers' behavior rather than signs or rules.;0
+Can you park within an intersection?;Assume other vehicles must yield to you.;0
+Can you park within an intersection?;Always wait for a green arrow even at uncontrolled intersections.;0
+Can you park within an intersection?;No, parking within an intersection is illegal.;1
+Can you park within an intersection?;Take the right-of-way if you get there first regardless of signs.;0
+How far from a railroad crossing must you park?;"There is no specific rule; use personal judgment.";0
+How far from a railroad crossing must you park?;Follow other drivers' behavior rather than signs or rules.;0
+How far from a railroad crossing must you park?;At least 50 feet.;1
+How far from a railroad crossing must you park?;Do whatever seems safest at the moment.;0
+Can you park in a bike lane?;No, parking in designated bike lanes is prohibited.;1
+Can you park in a bike lane?;Do whatever seems safest at the moment.;0
+Can you park in a bike lane?;"There is no specific rule; use personal judgment.";0
+Can you park in a bike lane?;Follow other drivers' behavior rather than signs or rules.;0
+What does a red curb mean?;Do whatever seems safest at the moment.;0
+What does a red curb mean?;Follow other drivers' behavior rather than signs or rules.;0
+What does a red curb mean?;"There is no specific rule; use personal judgment.";0
+What does a red curb mean?;No parking or stopping at any time.;1
+What does a yellow curb mean?;"There is no specific rule; use personal judgment.";0
+What does a yellow curb mean?;Do whatever seems safest at the moment.;0
+What does a yellow curb mean?;Loading zone - commercial vehicles only for limited time.;1
+What does a yellow curb mean?;Follow other drivers' behavior rather than signs or rules.;0
+What does a blue curb mean?;Do whatever seems safest at the moment.;0
+What does a blue curb mean?;Follow other drivers' behavior rather than signs or rules.;0
+What does a blue curb mean?;Disabled parking only with proper permit or license plate.;1
+What does a blue curb mean?;"There is no specific rule; use personal judgment.";0
+What does a green curb mean?;"There is no specific rule; use personal judgment.";0
+What does a green curb mean?;Do whatever seems safest at the moment.;0
+What does a green curb mean?;Short-term parking, usually 15-30 minutes.;1
+What does a green curb mean?;Follow other drivers' behavior rather than signs or rules.;0
+What does a white curb mean?;Do whatever seems safest at the moment.;0
+What does a white curb mean?;Follow other drivers' behavior rather than signs or rules.;0
+What does a white curb mean?;Passenger loading and unloading only.;1
+What does a white curb mean?;"There is no specific rule; use personal judgment.";0
+Is it legal to park facing the wrong direction on a street?;"There is no specific rule; use personal judgment.";0
+Is it legal to park facing the wrong direction on a street?;No, you must park in the direction of traffic flow.;1
+Is it legal to park facing the wrong direction on a street?;Follow other drivers' behavior rather than signs or rules.;0
+Is it legal to park facing the wrong direction on a street?;Do whatever seems safest at the moment.;0
+What is the legal blood alcohol limit for drivers 21 and over in Alaska?;Follow the speed of surrounding traffic even if it's above the limit.;0
+What is the legal blood alcohol limit for drivers 21 and over in Alaska?;Drive at any speed you feel comfortable with.;0
+What is the legal blood alcohol limit for drivers 21 and over in Alaska?;0.08% BAC (blood alcohol content).;1
+What is the legal blood alcohol limit for drivers 21 and over in Alaska?;Only follow speed limits when police are present.;0
+What is the legal blood alcohol limit for drivers under 21 in Alaska?;Drive at any speed you feel comfortable with.;0
+What is the legal blood alcohol limit for drivers under 21 in Alaska?;Only follow speed limits when police are present.;0
+What is the legal blood alcohol limit for drivers under 21 in Alaska?;Follow the speed of surrounding traffic even if it's above the limit.;0
+What is the legal blood alcohol limit for drivers under 21 in Alaska?;0.00% BAC - zero tolerance for underage drinking and driving.;1
+What is the legal blood alcohol limit for commercial drivers?;Drive at any speed you feel comfortable with.;0
+What is the legal blood alcohol limit for commercial drivers?;0.04% BAC.;1
+What is the legal blood alcohol limit for commercial drivers?;Only follow speed limits when police are present.;0
+What is the legal blood alcohol limit for commercial drivers?;Follow the speed of surrounding traffic even if it's above the limit.;0
+What is implied consent in Alaska?;Do whatever seems safest at the moment.;0
+What is implied consent in Alaska?;By driving in Alaska, you automatically consent to chemical tests if suspected of DUI.;1
+What is implied consent in Alaska?;Follow other drivers' behavior rather than signs or rules.;0
+What is implied consent in Alaska?;"There is no specific rule; use personal judgment.";0
+What happens if you refuse a breathalyzer test in Alaska?;Automatic license suspension, typically for 90 days for first refusal.;1
+What happens if you refuse a breathalyzer test in Alaska?;"There is no specific rule; use personal judgment.";0
+What happens if you refuse a breathalyzer test in Alaska?;Follow other drivers' behavior rather than signs or rules.;0
+What happens if you refuse a breathalyzer test in Alaska?;Do whatever seems safest at the moment.;0
+How long can your license be suspended for a first DUI conviction?;Do whatever seems safest at the moment.;0
+How long can your license be suspended for a first DUI conviction?;Follow other drivers' behavior rather than signs or rules.;0
+How long can your license be suspended for a first DUI conviction?;Minimum 90 days, up to 1 year.;1
+How long can your license be suspended for a first DUI conviction?;"There is no specific rule; use personal judgment.";0
+What is the penalty for DUI with a BAC of 0.15% or higher?;Enhanced penalties including longer license suspension and possible ignition interlock device.;1
+What is the penalty for DUI with a BAC of 0.15% or higher?;Do whatever seems safest at the moment.;0
+What is the penalty for DUI with a BAC of 0.15% or higher?;Follow other drivers' behavior rather than signs or rules.;0
+What is the penalty for DUI with a BAC of 0.15% or higher?;"There is no specific rule; use personal judgment.";0
+Can you be arrested for DUI even if your BAC is below 0.08%?;"There is no specific rule; use personal judgment.";0
+Can you be arrested for DUI even if your BAC is below 0.08%?;Yes, if you are impaired by alcohol, drugs, or other substances.;1
+Can you be arrested for DUI even if your BAC is below 0.08%?;Follow other drivers' behavior rather than signs or rules.;0
+Can you be arrested for DUI even if your BAC is below 0.08%?;Do whatever seems safest at the moment.;0
+What is the penalty for DUI with a minor in the vehicle?;Follow other drivers' behavior rather than signs or rules.;0
+What is the penalty for DUI with a minor in the vehicle?;"There is no specific rule; use personal judgment.";0
+What is the penalty for DUI with a minor in the vehicle?;Enhanced penalties including additional fines and possible felony charges.;1
+What is the penalty for DUI with a minor in the vehicle?;Do whatever seems safest at the moment.;0
+How long do DUI convictions stay on your record in Alaska?;Follow other drivers' behavior rather than signs or rules.;0
+How long do DUI convictions stay on your record in Alaska?;Permanently, though they may not affect insurance rates after a certain period.;1
+How long do DUI convictions stay on your record in Alaska?;"There is no specific rule; use personal judgment.";0
+How long do DUI convictions stay on your record in Alaska?;Do whatever seems safest at the moment.;0
+What is an ignition interlock device?;"There is no specific rule; use personal judgment.";0
+What is an ignition interlock device?;A device that prevents a vehicle from starting if alcohol is detected on the driver's breath.;1
+What is an ignition interlock device?;Do whatever seems safest at the moment.;0
+What is an ignition interlock device?;Follow other drivers' behavior rather than signs or rules.;0
+When might you be required to install an ignition interlock device?;Do whatever seems safest at the moment.;0
+When might you be required to install an ignition interlock device?;Follow other drivers' behavior rather than signs or rules.;0
+When might you be required to install an ignition interlock device?;After certain DUI convictions or as a condition of license reinstatement.;1
+When might you be required to install an ignition interlock device?;"There is no specific rule; use personal judgment.";0
+Can you be charged with DUI for prescription drugs?;Do whatever seems safest at the moment.;0
+Can you be charged with DUI for prescription drugs?;Follow other drivers' behavior rather than signs or rules.;0
+Can you be charged with DUI for prescription drugs?;Yes, if the medication impairs your ability to drive safely.;1
+Can you be charged with DUI for prescription drugs?;"There is no specific rule; use personal judgment.";0
+"What is the per se"" law regarding DUI?""";Do whatever seems safest at the moment.;0
+"What is the per se"" law regarding DUI?""";Follow other drivers' behavior rather than signs or rules.;0
+"What is the per se"" law regarding DUI?""";It's illegal to drive with a BAC of 0.08% or higher regardless of whether you appear impaired.;1
+"What is the per se"" law regarding DUI?""";"There is no specific rule; use personal judgment.";0
+Can you be arrested for DUI on private property?;Do whatever seems safest at the moment.;0
+Can you be arrested for DUI on private property?;Yes, DUI laws apply to both public roads and private property accessible to the public.;1
+Can you be arrested for DUI on private property?;"There is no specific rule; use personal judgment.";0
+Can you be arrested for DUI on private property?;Follow other drivers' behavior rather than signs or rules.;0
+When must you wear a seatbelt in Alaska?;"There is no specific rule; use personal judgment.";0
+When must you wear a seatbelt in Alaska?;Do whatever seems safest at the moment.;0
+When must you wear a seatbelt in Alaska?;Follow other drivers' behavior rather than signs or rules.;0
+When must you wear a seatbelt in Alaska?;All drivers and passengers must wear seatbelts at all times while the vehicle is in motion.;1
+At what age can a child sit in the front seat?;"Children under 8 must be in appropriate child restraints; specific front seat rules vary.";1
+At what age can a child sit in the front seat?;Follow other drivers' behavior rather than signs or rules.;0
+At what age can a child sit in the front seat?;"There is no specific rule; use personal judgment.";0
+At what age can a child sit in the front seat?;Do whatever seems safest at the moment.;0
+What is the penalty for not wearing a seatbelt?;Do whatever seems safest at the moment.;0
+What is the penalty for not wearing a seatbelt?;Follow other drivers' behavior rather than signs or rules.;0
+What is the penalty for not wearing a seatbelt?;Fines and possible license points.;1
+What is the penalty for not wearing a seatbelt?;"There is no specific rule; use personal judgment.";0
+When is it legal to use a cell phone while driving?;Follow other drivers' behavior rather than signs or rules.;0
+When is it legal to use a cell phone while driving?;"There is no specific rule; use personal judgment.";0
+When is it legal to use a cell phone while driving?;Do whatever seems safest at the moment.;0
+When is it legal to use a cell phone while driving?;"Only with hands-free devices; handheld use is prohibited in many areas.";1
+What should you do if your vehicle breaks down on the highway?;Do whatever seems safest at the moment.;0
+What should you do if your vehicle breaks down on the highway?;"There is no specific rule; use personal judgment.";0
+What should you do if your vehicle breaks down on the highway?;Pull as far right as possible, turn on hazard lights, and exit on the side away from traffic.;1
+What should you do if your vehicle breaks down on the highway?;Follow other drivers' behavior rather than signs or rules.;0
+How should you handle a tire blowout while driving?;Maintain control, gradually slow down, and pull over safely without sudden braking.;1
+How should you handle a tire blowout while driving?;Follow other drivers' behavior rather than signs or rules.;0
+How should you handle a tire blowout while driving?;"There is no specific rule; use personal judgment.";0
+How should you handle a tire blowout while driving?;Do whatever seems safest at the moment.;0
+What is the three-second rule?;Do whatever seems safest at the moment.;0
+What is the three-second rule?;A method to maintain safe following distance by counting three seconds between vehicles.;1
+What is the three-second rule?;Follow other drivers' behavior rather than signs or rules.;0
+What is the three-second rule?;"There is no specific rule; use personal judgment.";0
+When should you use your hazard lights?;When your vehicle is stopped or moving significantly slower than traffic, or in emergencies.;1
+When should you use your hazard lights?;Stop immediately even if you are already in the intersection.;0
+When should you use your hazard lights?;"Continue through without slowing; yellow means keep moving.";0
+When should you use your hazard lights?;Speed up to clear the intersection before it changes.;0
+What should you do if you miss your exit on a highway?;Do whatever seems safest at the moment.;0
+What should you do if you miss your exit on a highway?;Follow other drivers' behavior rather than signs or rules.;0
+What should you do if you miss your exit on a highway?;"There is no specific rule; use personal judgment.";0
+What should you do if you miss your exit on a highway?;"Continue to the next exit; never back up or turn around on a highway.";1
+When entering a highway, what should you do?;Do whatever seems safest at the moment.;0
+When entering a highway, what should you do?;Use the acceleration lane to match traffic speed and merge when safe.;1
+When entering a highway, what should you do?;Follow other drivers' behavior rather than signs or rules.;0
+When entering a highway, what should you do?;"There is no specific rule; use personal judgment.";0
+What is the proper way to make a three-point turn?;Assume other vehicles must yield to you.;0
+What is the proper way to make a three-point turn?;Always wait for a green arrow even at uncontrolled intersections.;0
+What is the proper way to make a three-point turn?;Take the right-of-way if you get there first regardless of signs.;0
+What is the proper way to make a three-point turn?;Signal, turn sharply left, reverse while turning right, then proceed forward.;1
+When parallel parking, how close to the curb should you be?;"There is no specific rule; use personal judgment.";0
+When parallel parking, how close to the curb should you be?;Do whatever seems safest at the moment.;0
+When parallel parking, how close to the curb should you be?;No more than 12 inches from the curb.;1
+When parallel parking, how close to the curb should you be?;Follow other drivers' behavior rather than signs or rules.;0
+What should you do when approaching a stopped school bus with flashing red lights?;Stop at least 30 feet away until the lights stop flashing and children are clear.;1
+What should you do when approaching a stopped school bus with flashing red lights?;Stop immediately even if you are already in the intersection.;0
+What should you do when approaching a stopped school bus with flashing red lights?;"Continue through without slowing; yellow means keep moving.";0
+What should you do when approaching a stopped school bus with flashing red lights?;Speed up to clear the intersection before it changes.;0
+When can you pass a school bus?;Only when the red lights are not flashing and the stop arm is retracted.;1
+When can you pass a school bus?;Do whatever seems safest at the moment.;0
+When can you pass a school bus?;"There is no specific rule; use personal judgment.";0
+When can you pass a school bus?;Follow other drivers' behavior rather than signs or rules.;0
+What is the penalty for passing a school bus illegally?;Follow other drivers' behavior rather than signs or rules.;0
+What is the penalty for passing a school bus illegally?;Substantial fines, possible license suspension, and points on your license.;1
+What is the penalty for passing a school bus illegally?;Do whatever seems safest at the moment.;0
+What is the penalty for passing a school bus illegally?;"There is no specific rule; use personal judgment.";0
+How should you handle an aggressive driver?;Do whatever seems safest at the moment.;0
+How should you handle an aggressive driver?;Avoid eye contact, don't engage, and report dangerous behavior to authorities.;1
+How should you handle an aggressive driver?;"There is no specific rule; use personal judgment.";0
+How should you handle an aggressive driver?;Follow other drivers' behavior rather than signs or rules.;0
+What should you do in a road rage situation?;Follow other drivers' behavior rather than signs or rules.;0
+What should you do in a road rage situation?;"There is no specific rule; use personal judgment.";0
+What should you do in a road rage situation?;Do whatever seems safest at the moment.;0
+What should you do in a road rage situation?;Stay calm, avoid confrontation, and call 911 if threatened.;1
+When is it legal to drive in the left lane on a multi-lane highway?;"There is no specific rule; use personal judgment.";0
+When is it legal to drive in the left lane on a multi-lane highway?;When passing other vehicles or when traffic conditions require it.;1
+When is it legal to drive in the left lane on a multi-lane highway?;Follow other drivers' behavior rather than signs or rules.;0
+When is it legal to drive in the left lane on a multi-lane highway?;Do whatever seems safest at the moment.;0
+What should you do if you're being tailgated?;Do whatever seems safest at the moment.;0
+What should you do if you're being tailgated?;Maintain your speed, gradually slow down to encourage passing, and pull over if safe.;1
+What should you do if you're being tailgated?;Follow other drivers' behavior rather than signs or rules.;0
+What should you do if you're being tailgated?;"There is no specific rule; use personal judgment.";0
+What is the proper procedure for changing lanes?;Follow other drivers' behavior rather than signs or rules.;0
+What is the proper procedure for changing lanes?;Do whatever seems safest at the moment.;0
+What is the proper procedure for changing lanes?;"There is no specific rule; use personal judgment.";0
+What is the proper procedure for changing lanes?;Check mirrors, signal, check blind spots, and move over when safe.;1
+When should you dim your headlights?;Stop immediately even if you are already in the intersection.;0
+When should you dim your headlights?;"Continue through without slowing; yellow means keep moving.";0
+When should you dim your headlights?;When approaching oncoming traffic within 500 feet or following within 200 feet.;1
+When should you dim your headlights?;Speed up to clear the intersection before it changes.;0
+What should you do if you encounter a funeral procession?;Do whatever seems safest at the moment.;0
+What should you do if you encounter a funeral procession?;Follow other drivers' behavior rather than signs or rules.;0
+What should you do if you encounter a funeral procession?;"There is no specific rule; use personal judgment.";0
+What should you do if you encounter a funeral procession?;Yield the right-of-way and do not break into the procession.;1
+What is the penalty for littering from a vehicle?;Follow other drivers' behavior rather than signs or rules.;0
+What is the penalty for littering from a vehicle?;Do whatever seems safest at the moment.;0
+What is the penalty for littering from a vehicle?;"Fines and possible community service; amounts vary by type and size of litter.";1
+What is the penalty for littering from a vehicle?;"There is no specific rule; use personal judgment.";0
+When must you report a traffic accident?;Follow other drivers' behavior rather than signs or rules.;0
+When must you report a traffic accident?;Immediately if there are injuries, deaths, or significant property damage.;1
+When must you report a traffic accident?;Do whatever seems safest at the moment.;0
+When must you report a traffic accident?;"There is no specific rule; use personal judgment.";0
+What information must you exchange after an accident?;Do whatever seems safest at the moment.;0
+What information must you exchange after an accident?;"There is no specific rule; use personal judgment.";0
+What information must you exchange after an accident?;Driver's license information, insurance information, vehicle registration, and contact information.;1
+What information must you exchange after an accident?;Follow other drivers' behavior rather than signs or rules.;0

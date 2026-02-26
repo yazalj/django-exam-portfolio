@@ -1,11 +1,16 @@
 from django.db import models
 from django.contrib.auth.models import User
+# exam_app/models.py
 
+from django.db import models
+from django.contrib.auth.models import User
 
 class Question(models.Model): 
     """
     Represents a single driving test question.
     This is the 'Parent' table in our database.
+    Input: question_text (the text of the question)
+    Output: A Question object that can be linked to multiple Choice objects.
     """
     # TextField datatype allows for long questions.
     text = models.TextField()
@@ -19,6 +24,8 @@ class Choice(models.Model):
     """
     Represents one of the multiple-choice options for a Question.
     This is the 'Child' table. Each choice belongs to one Question.
+    Input: question (ForeignKey linking to Question), text (the choice text), is_correct (True/False if this is the right answer)
+    Output: A Choice object that is linked to a specific Question.
     """
     # question --> will be converted into a question_id column in the database, which is done automatically by Django.
     ## which links each choice to its parent question.
@@ -40,6 +47,8 @@ class Choice(models.Model):
 class ExamResult(models.Model):
     """
     Stores the history of a user's attempt at the exam.
+    Input: user (ForeignKey to User), score (number of correct answers), passed (True/False if they passed), date_taken (timestamp of when they took the exam)
+    Output: An ExamResult object that can be queried to see a user's exam history.
     """
     # Links the result to a specific User (the person who logged in).
     user = models.ForeignKey(User, on_delete=models.CASCADE)
@@ -52,3 +61,11 @@ class ExamResult(models.Model):
     
     # Automatically saves the exact time the test finished (auto_now_add sets this automatically)
     date_taken = models.DateTimeField(auto_now_add=True)
+
+############################# TUNA YILMAZ ##############################################################################
+# # Stores IDs of incorrectly answered questions as a comma-separated string for analysis.
+    wrong_questions = models.TextField(blank=True, null=True)
+
+    # Returns a human-readable string for the object, making it easier to identify specific records in the Django Admin and during debugging.
+    def __str__(self):
+        return f"{self.user.username} - {self.score} - {self.date_taken}"

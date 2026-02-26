@@ -7,8 +7,13 @@
 </head>
 
 <body>
-
     <h2>Driving Test</h2>
+
+    <p>
+      ⏳ Time left:
+      <strong><span id="timer">20:00</span></strong>
+    </p>
+
     <form method="post">
         {% csrf_token %} {% for q in questions %}
             <div class="question-block">
@@ -25,5 +30,26 @@
         <button type="submit">Submit Exam</button>
     </form>
 
-    </body>
+    <script>
+      let remaining = parseInt("{{ remaining_seconds|default:0 }}", 10);
+
+      function tick() {
+        const minutes = Math.floor(remaining / 60);
+        const seconds = remaining % 60;
+
+        document.getElementById("timer").textContent =
+          minutes + ":" + (seconds < 10 ? "0" + seconds : seconds);
+
+        if (remaining <= 0) {
+          document.getElementById("exam-form").submit();
+          return;
+        }
+
+        remaining--;
+        setTimeout(tick, 1000);
+      }
+
+      tick();
+    </script>
+  </body>
 </html>
